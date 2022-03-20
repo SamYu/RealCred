@@ -1,4 +1,6 @@
-## Hack the Globe 2022
+## RealCred
+
+Take back the power of your credit.
 
 Made for Hack The Globe 2022.
 
